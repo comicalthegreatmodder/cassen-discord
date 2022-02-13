@@ -89,6 +89,10 @@ cassen.commandCreateBasic('what you need to say for the bot to activate','what t
 //6
 cassen.login()
 ```
+Run the bot by doing
+```bash
+node .
+```
 AND YOUR SET!
 ## Prerequisites
 
