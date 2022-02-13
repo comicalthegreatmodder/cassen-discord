@@ -1,0 +1,26 @@
+{
+  "name": "cassen-discord",
+  "version": "1.0.0",
+  "description": "Makes making a discord really, really, easy. Made so that even a baby can do it..oh wait. My friends are confused. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/comicalthegreatmodder/cassen-discord.git"
+  },
+  "keywords": [
+    "discordjs",
+    "easy"
+  ],
+  "author": "comical",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/comicalthegreatmodder/cassen-discord/issues"
+  },
+  "homepage": "https://github.com/comicalthegreatmodder/cassen-discord#readme",
+  "dependencies": {
+    "discord.js": "^13.6.0"
+  }
+}
