@@ -100,4 +100,4 @@ That's it!
 
 2 - To get a bot token, to [Discord Developers Portal](https://discord.dev) and click on applications. Create one and set the name. Then head over to the bot section on the side. Add a bot, and click the 'reveal token' thing. Copy it into the cassen.setToken() in the parenthesis wrapped in quotes when the time comes.
 
-3 - Head back to 'general information' and copy the application id. Then go to [Discord Permissions Calculator](https://discordapi.com/permissions.html#8) and paste the application id where it says 'client id'. Then click on the link at the bottom and invite it to whatever server you want!
+3 - Head back to 'general information' and copy the application id. Then go to [Discord Permissions Calculator](https://discordapi.com/permissions.html#8) and paste the application id where it says 'client id'. Then click on the link at the bottom and invite it to whatever server you want!"# cassen-discord" 
