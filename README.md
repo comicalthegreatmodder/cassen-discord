@@ -26,25 +26,25 @@ Install the library with npm. And only npm, cause' I can't figure out yarn.
 First, require the module in a variable. For all of you small brains, here's how.
 ```javascript
 //1
-const cassen = require('dbot-framework');
+const dbot = require('dbot-framework');
 ```
 
 Second, set the prefix. The prefix is the thing you use to call the bot. (eg: in !play, ! is the prefix)
 ```javascript
 //1
-const cassen = require('dbot-framework');
+const dbot = require('dbot-framework');
 //2
-cassen.setPrefix('in the quotations, write your prefix')
+dbot.setPrefix('in the quotations, write your prefix')
 ```
 
 Third, set the token. I show you how to get a token in the 'prerequisites' section.
 ```javascript
 //1
-const cassen = require('dbot-framework');
+const dbot = require('dbot-framework');
 //2
-cassen.setPrefix('in the quotations, write your prefix')
+dbot.setPrefix('in the quotations, write your prefix')
 //3
-cassen.setToken('your-token-here')
+dbot.setToken('your-token-here')
 ```
 
 Fourth (this is unnecessary, but recommended), when the bot is ready, you can make a little message to log in the console to let you you that the bot is working.
