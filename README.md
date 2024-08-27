@@ -1,6 +1,5 @@
-Yall, important note. it's called dbot-framework on npm now
-# cassen-discord
-
+Yall, important note. it's called dbot-framework on npm now. I, stupidly, deleted the old one. It was called cassen-discord, and it had 700 download in a WEEK at one point! unfortunate.
+# dbot-framework
 It's a library for people who are dumb like me, but want to create a discord bot.
 
 I'll teach you how in this 6-lines-of-code tutorial.
@@ -8,8 +7,8 @@ I'll teach you how in this 6-lines-of-code tutorial.
 FIRST create a folder somehwere like desktop, or an external drive not being used.
 ## Authors
 
-- [@comical](https://github.com/comicalthegreatmodder)
-
+- [@comical](https://github.com/comicalthegreatmodder) github
+- [@comical](https://www.npmjs.com/~comical) npm
 
 ## Installation
 
